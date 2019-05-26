@@ -1,2 +1,2 @@
-# Programaci-n-Estructurada
+# Programacion-Estructurada
 Coding in C
