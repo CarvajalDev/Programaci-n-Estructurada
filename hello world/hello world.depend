@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558737957 source:c:\users\h_car\onedrive\escritorio\code c\hello world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
